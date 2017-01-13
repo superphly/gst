@@ -60,7 +60,6 @@ html {
 
 body {
 	margin: 0;
-	background: url('assets/images/background-body.jpg') 0% 0%;
 }
 
 article,
@@ -1508,7 +1507,7 @@ html {
 }
 
 body {
-	background: #fff;
+	background: url('assets/images/background-body.jpg') 0% 0% #fff;
 	/* Fallback for when there is no custom background color defined. */
 }
 
