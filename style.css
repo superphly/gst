@@ -1507,7 +1507,7 @@ html {
 }
 
 body {
-	background: url('assets/images/background-body.jpg') 50% 50% repeat transparent;
+	background: url('assets/images/background-body.jpg') 0% 0% repeat transparent;
 	/* Fallback for when there is no custom background color defined. */
 }
 

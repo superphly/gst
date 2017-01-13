@@ -10,7 +10,7 @@
 .colors-dark input[type="button"],
 .colors-dark input[type="submit"],
 .colors-dark .entry-footer .edit-link a.post-edit-link {
-	background-color: #fff;
+	background-color: #666;
 }
 
 .colors-dark a:hover,
@@ -425,7 +425,7 @@ body.colors-dark,
 
 .colors-dark .site-header,
 .colors-dark .single-featured-image-header {
-	background-color: #262626;
+	background-color: transparent;
 }
 
 .colors-dark button,
@@ -442,7 +442,7 @@ body.colors-dark,
 .colors-dark .site-content-contain,
 .colors-dark .navigation-top,
 .colors-dark .main-navigation ul {
-	background: #222;
+	background: transparent;
 }
 
 .colors-dark .entry-title a,
