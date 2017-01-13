@@ -1507,7 +1507,7 @@ html {
 }
 
 body {
-	background: url('assets/images/background-body.jpg') 0% 0% #fff;
+	background: url('assets/images/background-body.jpg') 0% 0% repeat #fff;
 	/* Fallback for when there is no custom background color defined. */
 }
 
