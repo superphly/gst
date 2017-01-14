@@ -1565,6 +1565,7 @@ body {
 }
 
 .site-title {
+	display: none;
 	clear: none;
 	font-size: 24px;
 	font-size: 1.5rem;
@@ -1611,7 +1612,7 @@ body.has-header-video .site-description {
 
 .custom-logo-link img {
 	display: inline-block;
-	max-height: 80px;
+	max-height: 210px;
 	width: auto;
 }
 
