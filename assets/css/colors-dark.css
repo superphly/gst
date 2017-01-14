@@ -442,7 +442,7 @@ body.colors-dark,
 .colors-dark .site-content-contain,
 .colors-dark .navigation-top,
 .colors-dark .main-navigation ul {
-	background: url('assets/images/background-body.jpg') 0% 0% repeat transparent;
+	background: url('../images/background-body.jpg') 0% 0% repeat transparent;
 }
 
 .colors-dark .entry-title a,
