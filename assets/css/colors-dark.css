@@ -439,11 +439,14 @@ body.colors-dark,
 }
 
 body.colors-dark {
-	background: url('../images/background-body.jpg') 50% 50% fixed;
+	background: url('../images/background-body.jpg') 50% 50% transparent;
+}
+
+.colors-dark .navigation-top {
+	background: url('../images/red-stripe.jpg') 50% 50%;
 }
 
 .colors-dark .site-content-contain,
-.colors-dark .navigation-top,
 .colors-dark .main-navigation ul {
 	background: transparent;
 }
