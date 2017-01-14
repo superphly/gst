@@ -573,3 +573,7 @@ body.colors-dark {
 #tribe-bar-form label {
 	color: #333;
 }
+
+.single-tribe_events .tribe-events-event-meta {
+	background: #333;
+}
