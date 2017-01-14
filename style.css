@@ -1630,7 +1630,6 @@ body.home.title-tagline-hidden.has-header-video .custom-logo-link img {
 body:not(.title-tagline-hidden) .site-branding-text {
 	display: inline-block;
 	vertical-align: middle;
-	text-align:center;
 }
 
 .custom-header {
@@ -3193,6 +3192,7 @@ object {
 
 	.site-branding {
 		padding: 3em 0;
+		text-align: center;
 	}
 
 	/* Front Page */
