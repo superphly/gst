@@ -28,7 +28,7 @@
 
 	<?php endif; ?>
 
-	<div class="site-content">
+	<div class="panel-content">
 		<div class="wrap">
 			<header class="entry-header">
 				<?php the_title( '<h2 class="entry-title">', '</h2>' ); ?>
