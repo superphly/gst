@@ -438,11 +438,14 @@ body.colors-dark,
 	color: #222;
 }
 
-body.colors-dark,
+body.colors-dark {
+	background: url('../images/background-body.jpg') 50% 50% fixed;
+}
+
 .colors-dark .site-content-contain,
 .colors-dark .navigation-top,
 .colors-dark .main-navigation ul {
-	background: url('../images/background-body.jpg') 0% 0% repeat transparent;
+	background: transparent;
 }
 
 .colors-dark .entry-title a,
