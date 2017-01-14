@@ -577,3 +577,7 @@ body.colors-dark {
 .single-tribe_events .tribe-events-event-meta {
 	background: #333;
 }
+
+.site-footer {
+	border: 0;
+}
