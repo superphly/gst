@@ -443,7 +443,7 @@ body.colors-dark {
 }
 
 .colors-dark .navigation-top {
-	background: url('../images/red-stripe.jpg') 50% 50%;
+	background: url('../images/red-stripe.jpg') 50% 50% transparent;
 }
 
 .colors-dark .site-content-contain,
